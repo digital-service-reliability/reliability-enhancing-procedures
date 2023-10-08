@@ -10,5 +10,5 @@ What is a service the SLO refer to ? Is than a agregation of many smaller user j
 
 REPs a a way to align through the large enterprise on key aspects tied to reliability.
 
-Everyone has now the same definition of SLO: An SLO informed in real time the health of a specific user journey and can be mesure by one or more indicator (SLI). A service is a bundle of user journeys grouped in different features. So Service 1:n features 1:n** user journey 1:1 SLO** 1:n SLI
+Everyone has now the **same definition of SLO**: An SLO informed in real time the health of a specific user journey and can be mesure by one or more indicator (SLI). A service is a bundle of user journeys grouped in different features. So Service 1:n features 1:n **user journey 1:1 SLO** 1:n SLI
 When you work on SLO, you speak about implement REP5 with its clear structure, its training, and the links to the tools that support you!
